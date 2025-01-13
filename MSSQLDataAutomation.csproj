@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Core.MSSQL.SqlHelper" Version="1.0.3" />
+    <PackageReference Include="EPPlus" Version="7.5.2" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
     <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="172.52.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
